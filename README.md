@@ -13,6 +13,9 @@ This is my first Python mini-project from the 100 Days of Code Bootcamp. It gene
 ---
 
 ### 🖥️ Sample Output
-Welcome to the Band Name Generator. Which city did you grow up in?
-
-surat What is the name of a pet? miku Your band name could be surat miku
+Welcome to the Band Name Generator.
+Which city did you grow up in?
+surat 
+What is the name of a pet?
+miku 
+Your band name could be surat miku
